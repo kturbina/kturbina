@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kturbina
-- 👀 I’m interested in geoinformation technologies
-- 🌱 I’m currently learning javascript
-- 📫 How to reach me turbinadb@gmail.com
+- 👀 I’m interested in geoinformation technologies, remote sensing and glaciology 
+- 🌱 I’m currently learning javascript 
 
 
 <!---
